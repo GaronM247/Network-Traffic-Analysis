@@ -18,9 +18,6 @@
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
 
-<h2>Prerequisites </h2>
-
-- Create Windows 10 (21H2) amd Ubuntu Server 20.04 vitrual machine on Microsoft Azure
 
 <h2>High-Level Steps</h2>
 
