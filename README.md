@@ -1,10 +1,6 @@
 <h2> Description</h2>
 
 In the Network Traffic Analysis Lab, we embark on a comprehensive journey to explore the world of network traffic analysis within the context of Azure Virtual Machines. This tutorial not only provides insights into traffic patterns but also equips you with practical knowledge about managing security through Network Security Groups (NSGs). By leveraging a range of advanced tools, protocols, and environments, you'll gain hands-on experience in analyzing ICMP, SSH, DHCP, and DNS traffic. This process will enable you to understand, scrutinize, and manage network behavior effectively, ensuring robust security and optimal operational performance within the Azure ecosystem.
-<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1> 
-
- 
- 
 
 
 <h2>Environments and Technologies Used</h2>
@@ -20,6 +16,7 @@ In the Network Traffic Analysis Lab, we embark on a comprehensive journey to exp
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
 
+<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1> 
 
 <h2>High-Level Steps</h2>
 
