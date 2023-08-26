@@ -37,7 +37,7 @@ In the Network Traffic Analysis Lab, we embark on a comprehensive journey to exp
 ### Observe ICMP Traffic
 
 <p>
-<img src="https://i.imgur.com/jE4avGc.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h3>Step 1: Use Remote Desktop to Connect to Windows 10 VM</h3>
@@ -86,7 +86,7 @@ In the Network Traffic Analysis Lab, we embark on a comprehensive journey to exp
 ### Observe SSH Traffic
 
 <p>
-<img src="https://i.imgur.com/J0YnD3J.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h3>Step 1: Filter Wireshark for SSH Traffic</h3>
@@ -110,7 +110,7 @@ In the Network Traffic Analysis Lab, we embark on a comprehensive journey to exp
 ### Observe DHCP Traffic
 
 <p>
-<img src="https://i.imgur.com/nCCPjVw.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h3>Step 1: Filter Wireshark for DHCP Traffic</h3>
@@ -131,7 +131,7 @@ In the Network Traffic Analysis Lab, we embark on a comprehensive journey to exp
 ### Observe DNS Traffic
 
 <p>
-<img src="https://i.imgur.com/bB8jYer.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https:/" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h3>Step 1: Filter Wireshark for DNS Traffic</h3>
